@@ -1,0 +1,161 @@
+-----------------------------------------------------------------
+         On Sequential Online Archiving of Objective Vectors
+
+        Manuel López-Ibáñez, Joshua Knowles and Marco Laumanns
+-----------------------------------------------------------------
+
+Contents
+
+    * Introduction
+    * Usage
+    * License
+    * Download
+    * Changelog
+
+
+------------
+Introduction
+------------
+
+  We examine the problem of maintaining an approximation of the set of
+  nondominated points visited during a multiobjective optimization, a
+  problem commonly known as archiving. The main scenario considered is
+  the restricted case where the archive must be updated online as
+  points are generated one by one, and at most a fixed number of
+  points are to be stored in the archive at any one time.
+
+  This program implements most of the currently available archiving
+  algorithms in a common framework for simplifying their comparison
+  and analysis.
+
+Relevant literature:
+
+ [1] M. López-Ibáñez, J. Knowles, and M. Laumanns. On Sequential
+     Online Archiving of Objective Vectors. In R. Takahashi et al.,
+     editors, Evolutionary Multi-criterion Optimization (EMO 2011),
+     volume 6576 of Lecture Notes in Computer Science, pages
+     46-60. Springer, Heidelberg, Germany, 2011.
+
+
+------------
+Building
+------------
+
+The program can be compiled from source by invoking
+
+   make
+
+------------
+Usage
+------------
+
+The program reads a file containing a sequence of objective
+vectors. Each objective vector appears in a different line and the
+objectives are columns separated by whitespace. An example of
+invocation would be
+
+   archivers -f sequence.txt -t 1 -N 10 
+
+The other options available are given by the output of archivers -h
+
+-t integer : archive type
+         0      Unbound Archiver
+         1      Dominating Archiver
+         2      ePareto Archiver
+         3      e-approx Archiver
+         4      SPEA2 Archiver
+         5      NSGA2 Archiver
+         6      Adaptive Grid Archiver (AGA)
+         7      Hypervolume Archiver (AA_S)
+         8      Multilevel Grid Archiver (MGA)
+-f character string : file name of sequence data
+-N positive integer : capacity of the archive
+-len positive integer : length of the input sequence
+-s positive long : random seed
+-o character string: output filename for sequence output,
+                     otherwise, print only the final result to stdout.
+-g positive integer : number of levels of the adaptive grid; 
+                      #grid regions=2^(l*k)
+-e positive float : epsilon value for epsilon archivers
+-v                : print version and copyright information
+
+
+------------
+License
+------------
+
+This software is Copyright (C) 2011
+Manuel Lopez-Ibanez, Joshua Knowles and Marco Laumanns.
+
+This program is free software (software libre); you can redistribute
+it and/or modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+The file LICENSE contains a copy of the GNU General Public License; if
+not, you can obtain a copy of the GNU General Public License at
+http://www.gnu.org/copyleft/gpl.html
+
+This software includes code from various sources:
+
+  * The GNU Scientific Library (GSL) is Copyright (C) The GSL Team,
+    under the terms of the GPL.
+
+  * The hv library is Copyright (C) Carlos Fonseca, Manuel
+    López-Ibáñez, and Luis Paquete, under the terms of the GPL.
+
+  * Code from the PISA project Copyright (C) Swiss Federal Institute
+    of Technology, Computer Engineering and Networks Laboratory, under
+    the terms of the PISA license (PISA_LICENSE.txt).
+
+IMPORTANT NOTE: Please be aware that the fact that this program is
+released as Free Software does not excuse you from scientific
+propriety, which obligates you to give appropriate credit! If you
+write a scientific paper describing research that made substantive use
+of this program, it is your obligation as a scientist to (a) mention
+the fashion in which this software was used in the Methods section;
+(b) mention the algorithm in the References section. The appropriate
+citation is:
+
+    M. Lopez-Ibanez, J. Knowles, and M. Laumanns. On Sequential
+    Online Archiving of Objective Vectors. In EMO 2011,
+    LNCS. Springer, 2011.
+
+Moreover, as a personal note, I would appreciate it if you would email
+manuel.lopez-ibanez@ulb.ac.be with citations of papers referencing this
+work so I can mention them to my funding agent and tenure committee.
+
+
+------------
+Download
+------------
+
+The latest version can be downloaded from:
+
+    http://iridia.ulb.ac.be/~manuel/archivers
+
+
+------------
+Changelog
+------------
+
+Version 1.0
+
+    * Archivers implemented:
+
+         0      Unbound Archiver
+         1      Dominating Archiver
+         2      ePareto Archiver
+         3      e-approx Archiver
+         4      SPEA2 Archiver
+         5      NSGA2 Archiver
+         6      Adaptive Grid Archiver (AGA)
+         7      Hypervolume Archiver (AA_S)
+         8      Multilevel Grid Archiver (MGA)
+
+
