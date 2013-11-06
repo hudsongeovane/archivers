@@ -102,17 +102,6 @@ public:
     }
     fprintf (stream, "\n");
   };
-  
-  void printLatex(FILE *stream=stdout) const
-  {
-    vector<double>::const_iterator iter = o.begin();
-    fprintf (stream, "(");
-    fprintf (stream, "%f", *iter);
-    for (++iter; iter != o.end(); ++iter) {         
-      fprintf (stream, ",%f", *iter);
-    }
-    fprintf (stream, ")\n");
-  };
 
   dominance_t 
   dominance (const Solution &b) const

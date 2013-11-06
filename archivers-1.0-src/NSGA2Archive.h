@@ -146,6 +146,11 @@ private:
   void 
   push_back (const element_type &s)
   {
+	for(unsigned int i = 0; i < this->size(); i++) {
+		if (s.dominance(* this->at(i)) == EQUALS)
+			return;
+	}
+
     element_type * a = new element_type(s);
     a->data = new NSGA2ArchiveElementData();
     this->BaseArchive<T>::push_back(a);

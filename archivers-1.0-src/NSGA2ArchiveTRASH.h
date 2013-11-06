@@ -45,7 +45,9 @@ public:
 
   dominance_t add (const T & a)
   {
+
     element_type s (a);
+
     dominance_t result = NONDOMINATED;
 
     this->push_back(s);
@@ -79,6 +81,11 @@ private:
   void 
   push_back (const element_type &s)
   {
+	for(unsigned int i = 0; i < this->size(); i++) {
+		if (s.dominance(* this->at(i)) == EQUALS)
+			return;
+	}
+
     element_type * a = new element_type(s);
     a->data = new NSGA2ArchiveElementData();
     this->BaseArchive<T>::push_back(a);
@@ -266,7 +273,7 @@ private:
     for (i = this->max_size(); i < size; i++)
       {
 	trash.push_back(* new ArchiveElement<T>(* this->back()));
-        this->erase(this->end() - 1);
+        this->pop_back();
       }
 
     assert (this->size() <= this->max_size());
@@ -275,6 +282,7 @@ private:
   
   
   dominance_t addNovo(const T &s) {
+
     dominance_t result = this->update(s);
     if ((result == DOMINATES || result == NONDOMINATED)) {
       this->push_back(s);

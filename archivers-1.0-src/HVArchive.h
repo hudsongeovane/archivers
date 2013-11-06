@@ -100,7 +100,7 @@ public:
     this->max_size(maxsize);
     // The original SMS says that uevs are only kept for d == 2.
     _keep_uevs = (dim == 2);
-    _keep_uevs = true;
+    //_keep_uevs = true;
   }
 
   static HVArchiveElementData & getData(const element_type &s) {
@@ -435,4 +435,3 @@ private:
 };
 
 #endif
-

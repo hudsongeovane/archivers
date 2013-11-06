@@ -1,0 +1,2159 @@
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.710000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.720000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.740000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.740000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.730000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.710000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.730000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.740000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.730000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.710000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.730000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.740000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.720000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.720000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.740000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.740000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.720000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.710000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.740000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.730000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.720000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.720000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.730000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.740000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.730000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.730000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.740000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.740000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.720000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.720000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.740000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.740000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.740000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.720000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.720000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.750000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.750000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.740000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.710000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 2.750000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.260000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.130000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.130000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.110000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.160000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.140000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.140000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.100000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.140000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.140000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.120000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.120000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.130000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.160000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.120000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.110000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.140000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.150000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.120000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 3.110000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.160000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.140000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.130000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.120000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.150000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.200000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.140000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.120000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.160000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.150000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.140000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.120000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.140000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.140000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.130000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.160000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.150000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.160000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.120000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.120000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.040000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.040000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.040000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.590000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.600000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.600000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.600000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.600000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.600000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.600000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.600000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.600000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.600000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.010000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.010000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.020000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.140000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.140000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.140000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.140000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.140000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.140000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.140000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.150000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.140000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.140000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.140000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.130000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.140000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.130000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.140000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.140000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.140000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.130000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.130000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.130000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.140000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.130000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.120000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.130000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.120000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.130000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.120000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.040000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.040000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.070000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.040000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.010000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.970000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.960000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.960000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.960000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.000000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.990000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.050000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.980000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.980000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.990000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.960000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.970000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.980000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 1.980000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 2.000000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.360000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.350000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.340000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.330000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.340000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.350000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.350000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.330000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.350000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.320000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.320000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.340000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.350000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.310000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.310000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.320000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.320000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.310000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.320000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 3.320000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.180000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.200000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.190000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.190000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.200000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.190000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.180000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.180000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.190000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.190000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.190000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.190000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.180000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.200000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.190000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.190000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.190000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.180000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.180000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 100
+Time running: 0.180000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.190000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.190000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.190000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.190000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.190000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.200000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.190000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.190000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.200000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.220000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.200000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.220000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.200000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 4
+Time running: 0.210000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.350000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq2000points_500pf_3D.txt
+Solutions in output: 500
+Time running: 0.360000 seconds

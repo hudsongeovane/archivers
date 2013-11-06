@@ -248,6 +248,8 @@ public:
         //	  printf("I suppose I must be in a most crowded region!!!!\n");
         // don't archive the point
         // Since the point was temporarily archived, delete it.
+	trash.push_back(* new ArchiveElement<T>(* this->back()));
+	
         this->pop_back();
         assert (this->size() <= this->max_size());
         return result;

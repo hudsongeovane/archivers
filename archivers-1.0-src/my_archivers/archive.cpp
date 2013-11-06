@@ -1,6 +1,9 @@
 #include <iostream>
 #include <cstdlib>
 #include "archivers.h"
+#include <string.h>
+#include <ctime>
+
 bool strtovector_double (char * str, vector<double> &p) {
   Solution s;
   char * endp = str;
@@ -45,15 +48,96 @@ bool readSolution (FILE *stream, Solution &s) {
   s.setObjectives(v);
   return true;
 }
+void printError() {
+  cout << "Error. Use ./archive <input file> <archiver> [options]" << endl;
+  cout << "\n<archiver> can be:" << endl;
+  cout << "ideal -> Ideal Archiver" << endl;
+  cout << "distance -> Distance Archiver" << endl;
+  cout << "distributed -> Distributed Archiver" << endl;
+  cout << "ara -> Adaptive Rectangle Archiver" << endl;
+  cout << "\nOptions:" << endl;
+  cout << "-trash -> Enables recycling removed objects at the end of reading input file" << endl;
+  cout << "-n <MAX_SIZE> -> Limits the maximum size of the archiver. Value 100 by default" << endl;
+  cout << "-hide -> The final output is not shown in sdtout\n" << endl;
+  exit(0);
+}
+
+double rand0to1() {
+  return ((double)rand()/(double)RAND_MAX);
+}
+bool isBetterThan(vector<Solution> setone, vector<Solution> settwo) {
+  int dominated_elements = 0;
+  int equal_elements = 0;
+  int non_dominated = 0;
+  for(int i = 0; i < settwo.size(); i++) {
+    bool get_out = false;
+    bool found_one_equal = false;	
+    bool found_nondominated = false;	
+    dominance_t d;
+    for(int j = 0; j < setone.size() && !get_out; j++) {
+      d = setone[j].dominance(settwo.at(i));
+      if (d == DOMINATES) {
+	get_out = true;
+	cout << "DETERIORATE!" << endl;
+	dominated_elements++;
+      }
+      else if (d == EQUALS)
+	found_one_equal = true;
+      else if (d == IS_DOMINATED_BY)
+	return false;
+      else if (d == NONDOMINATED)
+	found_nondominated = true;
+    }
+    if (!get_out && found_one_equal) equal_elements++;
+    else if (!get_out && found_nondominated) return false;
+  }
+  return (dominated_elements > 0);
+}
 
 
 int main(int argc, char * argv[]) {
+  clock_t t;
+  t = clock();
+  
+  srand(time(0));
   if (argc < 3) {
-    cout << "Error. Use ./archive file max_size" << endl;
-    return 0;
+    printError();
   }
+  int max_size = 100, dimension = 0;
   FILE * stream = fopen(argv[1], "r");
-  int max_size = atoi(argv[2]), dimension = 0;
+  
+  bool trash = false, hide = false, paren = false;
+  /* ideal = 0
+   * distance = 1
+   * distributed = 2
+   * ara = 3
+   */
+  int n_archiver = -1;
+  const char* archivers[] = {"ideal","distance","distributed","ara"};
+  for(int i = 0; i < 4 && n_archiver == -1; i++) {
+    if (!strcmp(archivers[i],argv[2])) {
+      n_archiver = i;
+    }
+  }
+  if (n_archiver == -1) {
+    printError();
+  }
+  for(int i = 3; i < argc; i++) {
+    if (!strcmp("-trash",argv[i])) 
+      trash = true;
+    else if (!strcmp("-n",argv[i])) {
+      max_size = atoi(argv[++i]);
+    }
+    else if (!strcmp("-hide",argv[i])) {
+      hide = true;
+    }
+    else if (!strcmp("-p",argv[i])) {
+      paren = true;
+    }
+    else printError();
+  }
+  
+  
   Solution s;
   if (!readSolution(stream, s)) {
     fprintf(stderr, "error reading input file %s\n", argv[1]);
@@ -62,19 +146,86 @@ int main(int argc, char * argv[]) {
   if (dimension == 0) {
     dimension = s.num_objs();
   }
-  IdealArchiveTrash archiver(max_size,dimension);
-  //archiver.add(s);
-  //cout << archiver.solutions.size() << endl;
-  do {
-    archiver.add(s);
-  } while (readSolution (stream, s));
-  
-  archiver.finish();
-  for(int i = 0; i < archiver.solutions.size(); i++) {
-    archiver.solutions[i].print();
+  Archiver * archiver;
+  if (n_archiver == 0) {
+    if (trash) archiver = new IdealArchiveTrash(max_size,dimension);
+    else archiver = new IdealArchive(max_size,dimension);
+  }
+  else if (n_archiver == 1) {
+    if (trash) archiver = new DistanceArchiverTrash(max_size,dimension);
+    else archiver = new DistanceArchiver(max_size,dimension);
+  }
+  else if (n_archiver == 2) {
+    if (trash) archiver = new DistributedArchiverTrash(max_size,dimension);
+    else archiver = new DistributedArchiver(max_size,dimension);
+  }
+  else if (n_archiver == 3) {
+    if (trash) archiver = new ARArchiveTrash(dimension);
+    else archiver = new ARArchive(dimension);
   }
   
-  cout << "Ideal Point: ";
-  archiver.ideal.print();
-  cout << "Size: " << archiver.solutions.size() << endl;
+  vector< vector<Solution> > conjuntos;
+  
+  
+  /*
+  FILE * entrada = fopen("entrada.txt","w");
+  int counter = 0;
+  Solution p;
+  while(counter++ < 10000) {
+    vector<double> sol;
+    for(int i = 0; i<dimension; i++)
+      sol.push_back(rand0to1());
+    
+    p.setObjectives(sol);
+    archiver->add(p);
+    p.print(entrada);
+     if (true) {
+      conjuntos.push_back(archiver->getSolutions());
+    }
+  }*/
+  
+
+  do {
+    archiver->add(s);
+    conjuntos.push_back(archiver->getSolutions());
+  } while (readSolution (stream, s));
+
+  /*
+  for(int i = 0; i < conjuntos.size()-1; i++) {
+    for(int j = i+1; j < conjuntos.size(); j++) {
+      if (isBetterThan(conjuntos[i],conjuntos[j])) {
+	cout << ">-DETERIORATE" << endl;
+	
+	cout << "Set " << j << endl;
+	for(int k = 0; k < conjuntos[j].size(); k++) {
+	  conjuntos[j].at(k).printLatex();
+	}
+	
+	cout << "Set " << i << endl;
+	for(int k = 0; k < conjuntos[i].size(); k++) {
+	  conjuntos[i].at(k).printLatex();
+	}
+	
+      }
+    }
+  }*/
+  
+  
+  
+  archiver->finish();
+  if (!hide) {
+    for(int i = 0; i < archiver->getSolutions().size(); i++) {
+      if (paren) archiver->getSolutions().at(i).printLatex();
+      else archiver->getSolutions().at(i).print();
+    }
+  }
+  cout << "Size: " << archiver->getSolutions().size() << endl;
+  t = clock() - t;
+  FILE * append = fopen("../Resultados/results.txt","a");
+  fprintf(append,"%s Archiver %s\n",archivers[n_archiver],trash ? "+ Trash" : "");
+  fprintf(append,"Max size: %d\n",max_size);
+  fprintf(append,"Input: %s\n",argv[1]);
+  fprintf(append,"Solutions in output: %d\n",(int) archiver->getSolutions().size());
+  fprintf(append,"Time running: %f seconds\n\n",((float)t)/CLOCKS_PER_SEC);
+  fclose(append);
 }

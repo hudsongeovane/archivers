@@ -369,15 +369,20 @@ int main(int argc, char *argv[])
   if (archive_type == TRASH_ARCHIVE || archive_type == MGA_ARCHIVE_TRASH || archive_type == NSGA2_ARCHIVE_TRASH || archive_type == SPEA2_ARCHIVE_TRASH || archive_type == AGA_ARCHIVE_TRASH || archive_type == HV_ARCHIVE_TRASH) {
     archive->finish();
   }
-  if (!fileprefix)
-    archive->print();
+  //if (!fileprefix)
+    //archive->print();
 
   printf("Tamanho do arquivo: %d\n",(int) archive->size());
   t = clock() - t;
   printf("Tempo rodando: %f\n",((float)t)/CLOCKS_PER_SEC);
  
-  
-  delete archive;
+  FILE * append = fopen("Resultados/results.txt","a");
+  fprintf(append,"%s\n",archive_names[archive_type]);
+  fprintf(append,"Max size: %d\n",max_size);
+  fprintf(append,"Input: %s\n",seq_filename);
+  fprintf(append,"Solutions in output: %d\n",(int) archive->size());
+  fprintf(append,"Time running: %f seconds\n\n",((float)t)/CLOCKS_PER_SEC);
+  fclose(append);
 
   return 0;
 }
