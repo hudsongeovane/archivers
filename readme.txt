@@ -4,3 +4,7 @@ We are analysing some properties of the archiving techniques.
 A first review of theses archivers are provided in http://iridia.ulb.ac.be/IridiaTrSeries/IridiaTr2011-001.pdf
 
 This work extends the one by IRIDIA, and is being made by Universidade Federal do RN - Departamento de Informática e Matemática Aplicada - Brazil
+
+Hudson Geovane
+Elizabeth Goldbarg
+Marco Cesar Goldbarg
