@@ -1622,3 +1622,15 @@ Input: distributed_3d_deteriorate_N_8.txt
 Solutions in output: 8
 Time running: 0.090000 seconds
 
+distributed Archiver 
+Max size: 6
+Input: teste/distributed_deteriorate_N_6.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distributed_deteriorate_N_6.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
