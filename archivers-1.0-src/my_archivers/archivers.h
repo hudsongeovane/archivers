@@ -271,7 +271,9 @@ private:
 	for(int it = 1; it < copy.size(); it++) {
 	  if (distance(copy[it].o,reference_points[i].o) < distance(copy[closest].o,reference_points[i].o))
 	    closest = it;
+	  
 	}
+
 	result.push_back(copy[closest]);
 	copy.erase(copy.begin() + closest);
       }

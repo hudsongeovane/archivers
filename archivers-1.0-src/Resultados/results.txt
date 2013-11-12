@@ -1634,3 +1634,831 @@ Input: teste/distributed_deteriorate_N_6.txt
 Solutions in output: 6
 Time running: 0.000000 seconds
 
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 0.010000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 6
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 5
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 6
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 5
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 6
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 4
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 4
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 0.010000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 4
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 4
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 6
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 6
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 4
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 5
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 5
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 6
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 1
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 4
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 1
+Time running: 1.830000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 2.100000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 1.720000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 1.600000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 1
+Time running: 1.270000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 2.770000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 1.340000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 3
+Time running: 1.860000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 1
+Time running: 1.350000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 2
+Time running: 1.300000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distance_deteriorate_N_3.txt
+Solutions in output: 1
+Time running: 0.960000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 4.330000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.050000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.050000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.070000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.060000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: entrada.txt
+Solutions in output: 6
+Time running: 0.060000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: entrada.txt
+Solutions in output: 6
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: entrada.txt
+Solutions in output: 6
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: entrada.txt
+Solutions in output: 6
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: entrada.txt
+Solutions in output: 6
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: entrada.txt
+Solutions in output: 6
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: entrada.txt
+Solutions in output: 6
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: entrada.txt
+Solutions in output: 6
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: creating_distrib.txt
+Solutions in output: 8
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: creating_distrib.txt
+Solutions in output: 4
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: entrada.txt
+Solutions in output: 6
+Time running: 0.050000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 7
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 4
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed_2d.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: creating_distrib.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distrib_DDdeteriorate_n_6.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: teste/distrib_DDdeteriorate_n_6.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+

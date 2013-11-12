@@ -66,7 +66,15 @@ void printError() {
 }
 
 double rand0to1() {
-  return ((double)rand()/(double)RAND_MAX);
+  //return ((double)rand()/(double)RAND_MAX);
+  static bool high = false;
+  high = !high;
+  a:
+  int retornar = rand()%100;
+  if (high && retornar < 50) goto a;
+  if (!high && retornar > 50) goto a;
+  return (double) retornar / 100.0;
+  return ((double) (rand()%100)) / 100.0;
 }
 bool deteriorated(vector<Solution> setone, vector<Solution> settwo) {
 	for(int i = 0; i < setone.size(); i++) {
