@@ -711,7 +711,7 @@ public:
     
     for(int i = 0; i < d; i++) {
       references.push_back(* (infinite.clone()));
-      E.push_back(PI/10.);
+      E.push_back(PI/1000.);
     }
     a_min = * (infinite.clone());
     a_max.setObjectives(good_solution);
@@ -893,7 +893,7 @@ public:
     
     for(int i = 0; i < d; i++) {
       references.push_back(* (infinite.clone()));
-      E.push_back(PI/10.);
+      E.push_back(PI/1000.);
     }
     a_min = * (infinite.clone());
     a_max.setObjectives(good_solution);

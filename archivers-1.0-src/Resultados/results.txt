@@ -2,3 +2,1623 @@
 
 
 
+ideal Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.010000 seconds
+
+ideal Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+ideal Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+ideal Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+ideal Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+ideal Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 3
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.010000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 9
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.050000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 10
+Time running: 2.620000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: teste/seq10000points_1000pf_4D.txt
+Solutions in output: 5
+Time running: 1.480000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.930000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.260000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.740000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.620000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.800000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.250000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.980000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.600000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.400000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.740000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.660000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.710000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 3.010000 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 357.129974 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 357.299988 seconds
+
+ideal Archiver 
+Max size: 10
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 216.979996 seconds
+
+distributed Archiver 
+Max size: 3
+Input: dist_2d.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 3
+Input: dist_2d.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 3
+Input: dist_2d.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 3
+Input: dist_2d.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: dist_2d.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: dist_2d.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: dist_2d.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: dist_2d.txt
+Solutions in output: 4
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 100
+Time running: 11.650000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 16
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 14
+Time running: 0.060000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 13
+Time running: 0.050000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 13
+Time running: 0.050000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 16
+Time running: 0.050000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 9
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 6
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 2.790000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 2.870000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 10
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 10
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 4
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 4
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 4
+Time running: 0.010000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 4
+Time running: 0.010000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 4
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 4
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 24
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 21
+Time running: 0.050000 seconds
+
+distributed Archiver 
+Max size: 24
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 18
+Time running: 0.050000 seconds
+
+distributed Archiver 
+Max size: 24
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 9
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 7
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 7
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 7
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 4
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 21
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.030000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 2
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 7
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.040000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.010000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 4
+Time running: 0.010000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 4
+Time running: 0.010000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 4
+Time running: 0.010000 seconds
+
+distributed Archiver 
+Max size: 4
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 4
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 5
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 5
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 5
+Time running: 1.420000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 5
+Time running: 1.290000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 5
+Time running: 1.630000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 2.230000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 2.130000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 5
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 5
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver + Trash
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver + Trash
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 9
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 5
+Input: distributed.txt
+Solutions in output: 5
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 5
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 5
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 5
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+ideal Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 5
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+ara Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 2
+Time running: 0.000000 seconds
+
+ara Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+ara Archiver 
+Max size: 100
+Input: distributed.txt
+Solutions in output: 4
+Time running: 0.000000 seconds
+
+ara Archiver 
+Max size: 100
+Input: distributed.txt
+Solutions in output: 5
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: distributed.txt
+Solutions in output: 14
+Time running: 0.260000 seconds
+
+ara Archiver 
+Max size: 100
+Input: distributed.txt
+Solutions in output: 1
+Time running: 0.000000 seconds
+
+ara Archiver 
+Max size: 100
+Input: distributed.txt
+Solutions in output: 4
+Time running: 0.000000 seconds
+
+ara Archiver 
+Max size: 100
+Input: distributed.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+ara Archiver 
+Max size: 100
+Input: distributed.txt
+Solutions in output: 7
+Time running: 0.050000 seconds
+
+ara Archiver 
+Max size: 100
+Input: distributed.txt
+Solutions in output: 12
+Time running: 0.960000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-3d-10000.txt
+Solutions in output: 669
+Time running: 573.049988 seconds
+
+distance Archiver 
+Max size: 100
+Input: temp.txt
+Solutions in output: 4
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 4
+Input: temp.txt
+Solutions in output: 4
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 4
+Input: distance_2d_deteriorate.txt
+Solutions in output: 4
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: distance_2d_deteriorate.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: distance_2d_deteriorate.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: distance_2d_deteriorate.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: distance_2d_deteriorate.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: distance_2d_deteriorate.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: temp.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 3
+Input: distributed.txt
+Solutions in output: 3
+Time running: 0.000000 seconds
+
+distance Archiver 
+Max size: 6
+Input: distributed.txt
+Solutions in output: 6
+Time running: 0.000000 seconds
+
+distributed Archiver 
+Max size: 8
+Input: distributed_3d_deteriorate_N_8.txt
+Solutions in output: 8
+Time running: 0.090000 seconds
+
