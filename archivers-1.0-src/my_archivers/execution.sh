@@ -1,5 +1,5 @@
 #!bin/bash
-FILE="teste/seq2000points_500pf_3D.txt"
+FILE="teste/seq-smallPF-2d-10000.txt"
 for (( c=1; c<=20; c++ ))
 do
 ./archive $FILE ideal -n 100 -hide

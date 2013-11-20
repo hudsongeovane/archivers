@@ -1198,962 +1198,1204 @@ Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
 Time running: 0.080000 seconds
 
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 0.670000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 0.670000 seconds
-
-ideal Archiver
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 0.680000 seconds
 
-ideal Archiver
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 0.680000 seconds
 
-ideal Archiver
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 0.670000 seconds
 
-ideal Archiver
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.680000 seconds
+Time running: 0.650000 seconds
 
-ideal Archiver
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.680000 seconds
+Time running: 0.650000 seconds
 
-ideal Archiver
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.680000 seconds
+Time running: 0.650000 seconds
 
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 0.670000 seconds
-
-ideal Archiver
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 0.670000 seconds
 
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 0.670000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 0.680000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 0.670000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 0.670000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 0.680000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 0.680000 seconds
-
-ideal Archiver
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 0.660000 seconds
 
-ideal Archiver
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 0.670000 seconds
 
-ideal Archiver
+ideal Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.660000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.660000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.660000 seconds
+
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 0.680000 seconds
 
-ideal Archiver
+ideal Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.660000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.650000 seconds
+
+ideal Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 0.670000 seconds
 
-ideal Archiver
+ideal Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.660000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.660000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.660000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.660000 seconds
+
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
 Time running: 0.760000 seconds
 
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 0.760000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 0.760000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 0.770000 seconds
-
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
 Time running: 0.750000 seconds
 
-ideal Archiver
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.750000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.750000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.750000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.740000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.740000 seconds
+
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
 Time running: 0.760000 seconds
 
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.770000 seconds
+Time running: 0.750000 seconds
 
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.760000 seconds
+Time running: 0.740000 seconds
 
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 0.760000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 0.780000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 0.770000 seconds
-
-ideal Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 0.770000 seconds
-
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
 Time running: 0.760000 seconds
 
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.760000 seconds
+Time running: 0.740000 seconds
 
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.760000 seconds
+Time running: 0.740000 seconds
 
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.770000 seconds
+Time running: 0.750000 seconds
 
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.760000 seconds
+Time running: 0.750000 seconds
 
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.760000 seconds
+Time running: 0.750000 seconds
 
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.760000 seconds
+Time running: 0.750000 seconds
 
-ideal Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.770000 seconds
+Time running: 0.750000 seconds
 
-distributed Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.010000 seconds
+Solutions in output: 970
+Time running: 0.740000 seconds
 
-distributed Archiver
+ideal Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 12.950000 seconds
+Solutions in output: 970
+Time running: 0.750000 seconds
 
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.030000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.070000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 12.990000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 12.940000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.070000 seconds
-
-distributed Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 13.080000 seconds
 
-distributed Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 13.010000 seconds
+Time running: 13.020000 seconds
 
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.010000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.010000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.110000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.080000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.080000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.470000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.090000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 100
-Time running: 13.130000 seconds
-
-distributed Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 13.040000 seconds
 
-distributed Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 12.980000 seconds
+Time running: 13.040000 seconds
 
-distributed Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
 Time running: 13.080000 seconds
 
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.650000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.610001 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.540001 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.450001 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.379999 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.690001 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.549999 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.500000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.420000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.570000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.620001 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.420000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.370001 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.709999 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.850000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.650000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.629999 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.760000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.750000 seconds
-
-distributed Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 22.600000 seconds
-
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.850000 seconds
+Time running: 13.030000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.840000 seconds
+Time running: 13.200000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.840000 seconds
+Time running: 13.050000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.840000 seconds
+Time running: 13.080000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.850000 seconds
+Time running: 13.020000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.850000 seconds
+Time running: 13.070000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.860000 seconds
+Time running: 13.020000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.860000 seconds
+Time running: 13.020000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.850000 seconds
+Time running: 13.050000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.840000 seconds
+Time running: 13.020000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.840000 seconds
+Time running: 13.050000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.840000 seconds
+Time running: 13.030000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.860000 seconds
+Time running: 13.020000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.850000 seconds
+Time running: 12.990000 seconds
 
-distance Archiver
+distributed Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.840000 seconds
+Time running: 13.020000 seconds
 
-distance Archiver
+
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.430000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.410000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.490000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.430000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.400000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.420000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.430000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.400000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.400000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.420000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.440000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.410000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.420000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.420000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.410000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.550000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.420000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.410000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.440000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 13.420000 seconds
+
+distance Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.850000 seconds
+Time running: 0.820000 seconds
 
-distance Archiver
+distance Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.840000 seconds
+Time running: 0.820000 seconds
 
-distance Archiver
+distance Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.860000 seconds
+Time running: 0.820000 seconds
 
-distance Archiver
+distance Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.850000 seconds
+Time running: 0.820000 seconds
 
-distance Archiver
+distance Archiver 
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 100
-Time running: 0.850000 seconds
+Time running: 0.820000 seconds
 
-distance Archiver
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.830000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.830000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.830000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.830000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 0.820000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.890000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.890000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.890000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.890000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.880000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 0.890000 seconds
+
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
 Time running: 0.900000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.920000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.900000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.900000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.900000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.900000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.920000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.910000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.900000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.900000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.900000 seconds
+Time running: 0.880000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.920000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.910000 seconds
+Time running: 0.890000 seconds
 
-distance Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 970
-Time running: 0.900000 seconds
-
-distance Archiver
+distance Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
 Time running: 0.900000 seconds
 
-distance Archiver
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.300000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.300000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.300000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 8
+Time running: 1.290000 seconds
+
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.910000 seconds
+Time running: 1.360000 seconds
 
-distance Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.910000 seconds
+Time running: 1.370000 seconds
 
-distance Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.900000 seconds
+Time running: 1.370000 seconds
 
-distance Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.900000 seconds
+Time running: 1.370000 seconds
 
-distance Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.910000 seconds
+Time running: 1.360000 seconds
 
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.230000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.230000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.230000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.230000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.230000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.230000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.230000 seconds
-
-ara Archiver
-Max size: 100
-Input: teste/seq-smallPF-2d-10000.txt
-Solutions in output: 2
-Time running: 0.220000 seconds
-
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.370000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.360000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.370000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.360000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.360000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.370000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.380000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.370000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.360000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.390000 seconds
+Time running: 1.360000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.370000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.370000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.370000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.420000 seconds
+Time running: 1.360000 seconds
 
-ara Archiver
+ara Archiver + Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 1.370000 seconds
 
-ara Archiver
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.990000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.959999 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.940001 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.969999 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.940001 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.980000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.980000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 22.059999 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.930000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.969999 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.990000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.990000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.990000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.990000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.940001 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.930000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 22.000000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.940001 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.940001 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 100
+Time running: 21.980000 seconds
+
+HyperVolumeArchive+Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 22.100000 seconds
 
-ara Archiver
+HyperVolumeArchive+Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 22.080000 seconds
 
-ara Archiver
+HyperVolumeArchive+Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 22.070000 seconds
 
-ara Archiver
+HyperVolumeArchive+Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 22.100000 seconds
 
-ara Archiver
+HyperVolumeArchive+Trash
 Max size: 100
 Input: teste/seq-smallPF-2d-10000.txt
 Solutions in output: 970
-Time running: 0.380000 seconds
+Time running: 22.100000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.080000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.059999 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.059999 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.120001 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.129999 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.049999 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.090000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.100000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.100000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.080000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.139999 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.049999 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.030001 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.070000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-smallPF-2d-10000.txt
+Solutions in output: 970
+Time running: 22.070000 seconds

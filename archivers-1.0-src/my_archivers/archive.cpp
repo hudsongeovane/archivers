@@ -61,12 +61,13 @@ void printError() {
   cout << "-hide -> The final output is not shown in sdtout" << endl;
   cout << "-check -> Check deterioration at the end of process" << endl;
   cout << "-random <number of points> -> Does not use input file, but generate N points randomly" << endl;
+  cout << "-randfromfile <number of inputs> -> Inserts randomly points from the input file" << endl;
   cout << "-max_points <number of points> -> Limit the number of points in the input to N\n" << endl;
   exit(0);
 }
 
 double rand0to1() {
-  //return ((double)rand()/(double)RAND_MAX);
+  return ((double)rand()/(double)RAND_MAX); //comment this line if want to get other points
   static bool high = false;
   high = !high;
   a:
@@ -124,12 +125,13 @@ int main(int argc, char * argv[]) {
   int max_size = 100, dimension = 0;
   FILE * stream = fopen(argv[1], "r");
   
-  bool trash = false, hide = false, paren = false, randomize = false, checkDeteriorate = false;
+  bool trash = false, hide = false, paren = false, randomize = false, checkDeteriorate = false, randfromfile = false;
   /* ideal = 0
    * distance = 1
    * distributed = 2
    * ara = 3
    */
+	double checksum = 0.0;
   int n_archiver = -1;
   int random_number = -1;
   int max_points = 9999999;
@@ -163,6 +165,13 @@ int main(int argc, char * argv[]) {
     }
     else if (!strcmp("-max_points",argv[i])) {
       max_points = atoi(argv[++i]);
+    }
+    else if (!strcmp("-randfromfile",argv[i])) {
+      randfromfile = true;
+      max_points = atoi(argv[++i]);
+    }
+    else if (!strcmp("-checksum",argv[i])) {
+	checksum = 1.0;
     }
     else printError();
   }
@@ -216,10 +225,20 @@ int main(int argc, char * argv[]) {
   }
   else {
     int inputed = 0;
-    do {
-      archiver->add(s);
-      conjuntos.push_back(archiver->getSolutions());
-    } while (readSolution (stream, s) && ++inputed < max_points);
+    if (randfromfile) {
+      vector<Solution> allsolutions;
+      do {
+	allsolutions.push_back(s);
+      } while(readSolution(stream,s) && ++inputed < max_points);
+      for(int k = 0; k < max_points; k++) {
+	archiver->add(allsolutions.at(rand() % allsolutions.size()));
+      }
+    }	
+    else
+      do {
+        archiver->add(s);
+        conjuntos.push_back(archiver->getSolutions());
+      } while (readSolution (stream, s) && ++inputed < max_points);
   }
 
   if(checkDeteriorate) {
@@ -240,21 +259,24 @@ int main(int argc, char * argv[]) {
 	
         }
 	else if (deteriorated(conjuntos[i],conjuntos[j])) {
-	  cout << "In set after " << i << "th element, there is a point dominated by one point of the set after " << j << "th element." << endl;
+	  cout << "In set after " << i << "th element, there is a point who dominates one point of the set after " << j << "th element." << endl;
 	}
       }
     }
   }
-  
   
   archiver->finish();
   if (!hide) {
     for(int i = 0; i < archiver->getSolutions().size(); i++) {
       if (paren) archiver->getSolutions().at(i).printLatex();
       else archiver->getSolutions().at(i).print();
+
+	if (checksum > 0.0) checksum += archiver->getSolutions().at(i).o[0];
     }
   }
+
   cout << "Size: " << archiver->getSolutions().size() << endl;
+  if (checksum > 0.0) cout << "Checksum: " << checksum << endl;
   t = clock() - t;
   FILE * append = fopen("../Resultados/results.txt","a");
   fprintf(append,"%s Archiver %s\n",archivers[n_archiver],trash ? "+ Trash" : "");
