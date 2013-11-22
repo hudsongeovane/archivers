@@ -1,0 +1,2400 @@
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.100000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.100000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.100000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.100000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.110000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.100000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.100000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.100000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.100000 seconds
+
+SPEA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 1.100000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.130000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.120000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.120000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+SPEA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 1.110000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.910000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.910000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.910000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.910000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.910000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.910000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.910000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.900000 seconds
+
+NSGA2 Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.920000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.920000 seconds
+
+NSGA2 Archiver+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.910000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.020000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+Adaptive Grid Archiver (AGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+AGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.600000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.570000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.570000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.570000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.570000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+Multilevel Grid Archiver (MGA)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.590000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+MGA+TRASH
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.580000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.010000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.010000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.000000 seconds
+
+Dominating Archiver
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.020000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.000000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Trash Archive
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.010000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.590000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.590000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.610000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.600000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.600000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.590000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+Hypervolume Archiver (AA_S)
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.630000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.580000 seconds
+
+HyperVolumeArchive+Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.080000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.080000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.070000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.080000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.080000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.070000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.070000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.070000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.070000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.070000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.080000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.070000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.080000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.080000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.080000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.070000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.070000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.070000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.080000 seconds
+
+ideal Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.070000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+ideal Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.080000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.560000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.560000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.560000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.560000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.580000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 2.570000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.620000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.610000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.610000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.700000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.630000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.600000 seconds
+
+distributed Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 2.590000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.130000 seconds
+
+distance Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 100
+Time running: 0.120000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.140000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+distance Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.130000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.030000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.030000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.020000 seconds
+
+ara Archiver 
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 2
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.040000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
+ara Archiver + Trash
+Max size: 100
+Input: teste/seq-clustered-2d-900.txt
+Solutions in output: 300
+Time running: 0.030000 seconds
+
