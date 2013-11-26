@@ -350,7 +350,7 @@ int main(int argc, char *argv[])
     archive = new AdaptiveGridArchiveTrash<Solution> (max_size, s.num_objs(), rng, grid_levels);
     break;
   case HV_ARCHIVE_TRASH:
-    archive = new HVArchiveTrash<Solution> (max_size, s.num_objs(), rng);
+    archive = new HVArchiveTrash<Solution>(max_size, s.num_objs(), rng);
     break;
     
   default:
